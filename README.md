@@ -1,4 +1,4 @@
-# LincolnAngaya
+
 <h1 align="center">Hi 👋, I'm Lincolin Angaya</h1>
 <h3 align="center">A passionate full-stack software developer from Nairobi-Kenya</h3>
 
